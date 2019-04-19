@@ -1,4 +1,10 @@
 # Site navigation links
 
-- title: Projects
+- title: 项目
   url: /projects/
+
+- title: 博客
+  url: /blogs/
+
+- title: About
+  url: /about/
