@@ -1,5 +1,8 @@
-UMHA
-===============
+---
+layout: post
+title: Openstack计算节点高可用
+excerpt_separator:  <!--more-->
+---
 UMHA(UMCloud High Availability)--计算节点高可用处理程序，其目的是在某计算节点发生故障时，能够
 自动将在该计算节点上的虚机疏散到其他可用计算节点，进而保证生产环境业务的正常运行。另外，真正运行在
 环境下的程序名称则是umha-processing。
