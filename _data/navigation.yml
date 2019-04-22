@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: 项目
-  url: /projects/
+- title: 读书笔记 
+  url: /notes/
 
 - title: 博客
   url: /blogs/
+
+- title: 生活记录
+  url: /mylife-notes/
