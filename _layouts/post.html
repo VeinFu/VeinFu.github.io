@@ -11,6 +11,9 @@ layout: compress
 </head>
 <body>
     {% include nav.html %}
+    {% if page.music-id %}
+    {% include cloud-music.html %}
+    {% endif %} 
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
