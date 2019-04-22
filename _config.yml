@@ -1,7 +1,7 @@
 # Site
 title:              VeinFu的技术博客
 bio:                '不积跬步无以至千里，不积小流无以成江河'
-description:        "test description"
+description:        "目前从事云计算相关的工作，主要针对私有云场景的开发，专注Openstack订制化功能的开发及实施，欢迎广大程序爱好者一起沟通共同进步。"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/mumu.png'

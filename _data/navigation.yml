@@ -1,10 +1,13 @@
 # Site navigation links
 
-- title: 读书笔记 
-  url: /notes/
-
 - title: 博客
   url: /blogs/
+
+- title: 归档
+  url: /tags/
+
+- title: 读书笔记 
+  url: /notes/
 
 - title: 生活记录
   url: /mylife-notes/
