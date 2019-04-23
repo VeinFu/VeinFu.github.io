@@ -3,7 +3,6 @@ layout: post
 title: Openstack之Nova-Scheduler模块简介
 tags:
   - Openstack
-permalink: /posts/:title/
 comments: true
 ---
 

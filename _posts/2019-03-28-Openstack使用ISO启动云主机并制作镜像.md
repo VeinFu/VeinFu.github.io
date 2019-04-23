@@ -4,7 +4,6 @@ title: Openstack使用ISO启动云主机并制作镜像
 tags:
   - Openstack
   - 运维实施
-permalink: /posts/:title/
 comments: true
 ---
 

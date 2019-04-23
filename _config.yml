@@ -12,7 +12,9 @@ url:                https://VeinFu.github.io
 comments:	    true
 
 # Jekyll
-permalink:          /:title/
+permalink:          pretty
+paginate: 	    5
+paginate_path: 	    'posts/page:num'
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -70,8 +72,6 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
-paginate: 5
-paginate_path: 'posts/page:num'
 
 jekyll-mentions:
     base_url: https://github.com

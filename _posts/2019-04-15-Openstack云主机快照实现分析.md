@@ -3,7 +3,6 @@ layout: post
 title: Openstack云主机实现快照分析
 tags:
   - Openstack
-permalink: /posts/:title/
 comments: true
 ---
 
