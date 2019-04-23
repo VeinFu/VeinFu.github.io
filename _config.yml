@@ -69,6 +69,9 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-paginate
+paginate: 5
+paginate_path: 'page:num'
 
 jekyll-mentions:
     base_url: https://github.com
