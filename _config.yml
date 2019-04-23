@@ -73,6 +73,13 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
+whitelist:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
 jekyll-mentions:
     base_url: https://github.com
 
