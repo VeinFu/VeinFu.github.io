@@ -11,14 +11,14 @@ layout: compress
 </head>
 <body>
     {% include nav.html %}
-    {% if page.music-id %}
-    {% include cloud-music.html %}
-    {% endif %} 
     <!-- Header -->
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
+    		    {% if page.music %}
+        		{% include cloud-music.html %}
+    		    {% endif %} 
                     <h1>{{ page.title }}</h1>
                     <h4>{{ page.date | date_to_string }}</h4>
                     {% if site.reading_time %}
