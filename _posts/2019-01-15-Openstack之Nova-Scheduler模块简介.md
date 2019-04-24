@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Openstack之Nova-Scheduler模块简介
+category: 技术博客
 tags:
   - Openstack
 comments: true

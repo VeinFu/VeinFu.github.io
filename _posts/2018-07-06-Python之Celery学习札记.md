@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python之Celery学习札记
+category: 技术博客
 tags:
   - Python
   - 后端开发

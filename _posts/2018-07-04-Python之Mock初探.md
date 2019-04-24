@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python之Mock初探
+category: 技术博客
 tags:
   - Python
   - 后端开发

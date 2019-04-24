@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Openstack云主机实现快照分析
+category: 技术博客
 tags:
   - Openstack
 comments: true
