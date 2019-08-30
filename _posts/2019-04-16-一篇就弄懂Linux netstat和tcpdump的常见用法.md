@@ -3,7 +3,7 @@ layout: post
 title: 一篇就弄懂Linux netstat和tcpdump的常见用法
 category: 技术博客
 tags:
-  - Linux
+  - 一篇就弄懂系列
   - 运维实施
 comments: true
 ---
