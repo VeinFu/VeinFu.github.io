@@ -1,37 +1,38 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 关于我
+tags: [自话]
+date: 2019-08-30
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## 从业经历
+* 2012年国内一小二本毕业参加工作；
+* 毕业前5年一直在从事服务器及其存储相关的软件开发工作；
+* 2018年转投互联网做后端开发；
+* 目前在做云计算相关的工作；
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## 关于技术
 
-## Preview
+![](https://veinfu.github.io/assets/img/coding.png)
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+一直对技术充满好奇和兴趣，始终相信技术能够改变世界。
 
-## Getting Started
+定好自己的职业和技术之路规划，坚定走下去！
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## 关于未来
+
+工作上，秉承职业素养做好本职工作，始终怀着一颗对技术的敬畏之心深耕技术各个领域，技术能力及深度上稳步提升。
+
+工作之外，想培养一些兴趣爱好，比如做菜、摄影、健身等，一直都喜欢做菜，研发新菜式和被家人称赞始终让我有种
+深深的幸福感；想学习摄影，希望能记录下来一些儿女的成长瞬间和生活中值得纪念的片段，也希望每年都能够有时间
+携家人出去走走看看，领略祖国各地的风土人情和山水美食，远离城市喧嚣寻得片刻安宁；或许是因为职业的原因，身
+体很多方面都处于亚健康状态，希望通过健身得到改善，能够有更多的时间和精力去陪伴我的家人。
+
+![](https://veinfu.github.io/assets/img/mumu.png)
+
+非常感谢我的老婆，有一双可爱的儿女，愿他们能够健康、快乐成长，不奢望他们今后能多大事业出息，愿他们能够懂
+得感恩，对生活充满敏感热爱之心，做一个善良和有修养的人。
+
+最后，愿父母身体健康、安度晚年生活；一家人永远相亲相爱，幸福下去......
